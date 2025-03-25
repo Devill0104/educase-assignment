@@ -1,3 +1,4 @@
+
  - only the ui part has been covered in this code base for the frontend of the assignment
  - all the buttons are working 
  - this assignment contains the frontend part of the given assignment. i can write the backend code as well it if is required and asked but for 
