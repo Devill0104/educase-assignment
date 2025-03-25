@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ - only the ui part has been covered in this code base for the frontend of the assignment
+ - all the buttons are working 
+ - this assignment contains the frontend part of the given assignment. i can write the backend code as well it if is required and asked but for 
+   now, i have written the frontend codes only. 
+ - Framework used - React.js 
+ - React Router for smooth routing 
+ - since no backend is provided so there is no form validation and login/logout or signup functionality(it all can be added if needed)
